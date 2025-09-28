@@ -1,0 +1,17 @@
+﻿# dependencias y builds
+node_modules/
+.expo/
+.expo-shared/
+dist/
+build/
+android/
+ios/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# env
+.env
+.env.*
